@@ -1,5 +1,6 @@
 {
-  "name": "orm",
+  "name": "@luka598/orm",
+  "private": false,
   "version": "0.0.0",
   "description": "Simple orm",
   "main": "main.js",
