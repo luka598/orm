@@ -1,0 +1,23 @@
+{
+  "name": "orm",
+  "version": "0.0.0",
+  "description": "Simple orm",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luka598/orm.git"
+  },
+  "keywords": [
+    "orm",
+    "postgresql"
+  ],
+  "author": "luka598",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/luka598/orm/issues"
+  },
+  "homepage": "https://github.com/luka598/orm#readme"
+}
